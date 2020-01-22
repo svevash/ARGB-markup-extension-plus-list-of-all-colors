@@ -1,0 +1,13 @@
+C:\Users\Svetlana\Downloads\Xamarin_Forms___Markup_Extensions\MarkupExtensions\MarkupExtensions\bin\Debug\netstandard2.0\MarkupExtensions.deps.json
+C:\Users\Svetlana\Downloads\Xamarin_Forms___Markup_Extensions\MarkupExtensions\MarkupExtensions\bin\Debug\netstandard2.0\MarkupExtensions.dll
+C:\Users\Svetlana\Downloads\Xamarin_Forms___Markup_Extensions\MarkupExtensions\MarkupExtensions\bin\Debug\netstandard2.0\MarkupExtensions.pdb
+C:\Users\Svetlana\Downloads\Xamarin_Forms___Markup_Extensions\MarkupExtensions\MarkupExtensions\obj\Debug\netstandard2.0\MarkupExtensions.csprojAssemblyReference.cache
+C:\Users\Svetlana\Downloads\Xamarin_Forms___Markup_Extensions\MarkupExtensions\MarkupExtensions\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Svetlana\Downloads\Xamarin_Forms___Markup_Extensions\MarkupExtensions\MarkupExtensions\obj\Debug\netstandard2.0\ArrayDemoPage.xaml.g.cs
+C:\Users\Svetlana\Downloads\Xamarin_Forms___Markup_Extensions\MarkupExtensions\MarkupExtensions\obj\Debug\netstandard2.0\HslColorDemoPage.xaml.g.cs
+C:\Users\Svetlana\Downloads\Xamarin_Forms___Markup_Extensions\MarkupExtensions\MarkupExtensions\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Svetlana\Downloads\Xamarin_Forms___Markup_Extensions\MarkupExtensions\MarkupExtensions\obj\Debug\netstandard2.0\MarkupExtensions.AssemblyInfoInputs.cache
+C:\Users\Svetlana\Downloads\Xamarin_Forms___Markup_Extensions\MarkupExtensions\MarkupExtensions\obj\Debug\netstandard2.0\MarkupExtensions.AssemblyInfo.cs
+C:\Users\Svetlana\Downloads\Xamarin_Forms___Markup_Extensions\MarkupExtensions\MarkupExtensions\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Svetlana\Downloads\Xamarin_Forms___Markup_Extensions\MarkupExtensions\MarkupExtensions\obj\Debug\netstandard2.0\MarkupExtensions.dll
+C:\Users\Svetlana\Downloads\Xamarin_Forms___Markup_Extensions\MarkupExtensions\MarkupExtensions\obj\Debug\netstandard2.0\MarkupExtensions.pdb

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:MarkupExtensions"
+             x:Class="MarkupExtensions.HslColorDemoPage"
+             Title="ARGB colors">
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style TargetType="BoxView">
+                <Setter Property="WidthRequest" Value="80" />
+                <Setter Property="HeightRequest" Value="80" />
+                <Setter Property="HorizontalOptions" Value="Center" />
+                <Setter Property="VerticalOptions" Value="CenterAndExpand" />
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    
+    <StackLayout>
+        <BoxView>
+            <BoxView.Color>
+                <local:ARGBColorExtension R="0" G="1" B="1" A="1" />
+            </BoxView.Color>
+        </BoxView>
+
+        <BoxView>
+            <BoxView.Color>
+                <local:ARGBColor R=".5" G="1" B="0" />
+            </BoxView.Color>
+        </BoxView>
+
+        <BoxView Color="{local:ARGBColorExtension R=1, G=.5, B=.5}" />
+
+        <BoxView Color="{local:ARGBColor B=1, G=0, A=0.5}" />
+
+        <BoxView Color="{local:ARGBColor A=0.5}" />
+    </StackLayout>
+</ContentPage>
